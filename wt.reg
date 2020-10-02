@@ -2,7 +2,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\wt]
 @="Windows terminal here"
-"Icon"="C:\\Users\\enmonster\\AppData\\Local\\terminal\\wt.ico"
+"Icon"="C:\\Users\\enmonster\\AppData\\Local\\terminal\\wt.ico"  --这个是右键图标目录
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\wt\command]
-@="C:\\Users\\enmonster\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"
+@="C:\\Users\\enmonster\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"  --这个是wt程序目录
